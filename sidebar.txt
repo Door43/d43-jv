@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jv:home|Door43 (jv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jv|d43-jv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jv/archive/master.zip|d43-jv.zip]]
+
+**Recent Changes**
+{{changes>ns = jv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jv|Ethnologue data]]
+
